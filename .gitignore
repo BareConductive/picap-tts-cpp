@@ -1,0 +1,9 @@
+*
+!/**/
+!*.*
+._*
+.DS_Store
+!Makefile
+!run
+*.o
+*.so*
